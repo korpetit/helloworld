@@ -5,4 +5,5 @@ Això es suposa que és un arxiu perque sàpigues com funciona d'una puta vegada
 i punt!
 
 Un últim codi per fer merge desprès.
+... ja comença a donar pel cul.
 
